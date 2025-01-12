@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\00code\\ASPNET\\example\\Hello\\Hello\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\00code\\ASPNET\\example\\Hello\\Hello\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\00code\\ASPNET\\example\\Hello\\Hello\\wwwroot\\myPage.html",
+      "PackagePath": "staticwebassets\\myPage.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Hello.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Hello.props",
+      "PackagePath": "build\\Hello.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Hello.props",
+      "PackagePath": "buildMultiTargeting\\Hello.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Hello.props",
+      "PackagePath": "buildTransitive\\Hello.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "m503NVQam4YNzN2WF4oDM/rDHZbWSRpC+r+Dw3EfOg4=",
+  "Source": "Hello",
+  "BasePath": "_content/Hello",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Hello\\wwwroot",
+      "Source": "Hello",
+      "ContentRoot": "C:\\00code\\ASPNET\\example\\Hello\\Hello\\wwwroot\\",
+      "BasePath": "_content/Hello",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\00code\\ASPNET\\example\\Hello\\Hello\\wwwroot\\css\\style.css",
+      "SourceId": "Hello",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\00code\\ASPNET\\example\\Hello\\Hello\\wwwroot\\",
+      "BasePath": "_content/Hello",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\00code\\ASPNET\\example\\Hello\\Hello\\wwwroot\\index.html",
+      "SourceId": "Hello",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\00code\\ASPNET\\example\\Hello\\Hello\\wwwroot\\",
+      "BasePath": "_content/Hello",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\00code\\ASPNET\\example\\Hello\\Hello\\wwwroot\\myPage.html",
+      "SourceId": "Hello",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\00code\\ASPNET\\example\\Hello\\Hello\\wwwroot\\",
+      "BasePath": "_content/Hello",
+      "RelativePath": "myPage.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\myPage.html"
+    }
+  ]
+}
