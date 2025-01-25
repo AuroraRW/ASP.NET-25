@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5OWDN/xAHxh48MNeQrLz+r2W02fn0jjztT1MsXG2xmg=",
+  "Source": "HttpRouting",
+  "BasePath": "_content/HttpRouting",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
