@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "RQMD+vRudsMj2Xr3aV+myOotATBb67n+PALTEv+1kHQ=",
+  "Source": "ControllerApp",
+  "BasePath": "_content/ControllerApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ControllerApp\\wwwroot",
+      "Source": "ControllerApp",
+      "ContentRoot": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\ControllerApp\\ControllerApp\\wwwroot\\",
+      "BasePath": "_content/ControllerApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\ControllerApp\\ControllerApp\\wwwroot\\Samples\\Sample.pdf",
+      "SourceId": "ControllerApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\ControllerApp\\ControllerApp\\wwwroot\\",
+      "BasePath": "_content/ControllerApp",
+      "RelativePath": "Samples/Sample#[.{fingerprint}]?.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o2v0w5tn6n",
+      "Integrity": "sH4ndJNICIvDzn6jjeg3HvG3LuzOuTbvipK3aZjV6DY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Samples\\Sample.pdf"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Samples/Sample.o2v0w5tn6n.pdf",
+      "AssetFile": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\ControllerApp\\ControllerApp\\wwwroot\\Samples\\Sample.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35479"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sH4ndJNICIvDzn6jjeg3HvG3LuzOuTbvipK3aZjV6DY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 Jan 2024 18:52:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o2v0w5tn6n"
+        },
+        {
+          "Name": "label",
+          "Value": "Samples/Sample.pdf"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sH4ndJNICIvDzn6jjeg3HvG3LuzOuTbvipK3aZjV6DY="
+        }
+      ]
+    },
+    {
+      "Route": "Samples/Sample.pdf",
+      "AssetFile": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\ControllerApp\\ControllerApp\\wwwroot\\Samples\\Sample.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35479"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sH4ndJNICIvDzn6jjeg3HvG3LuzOuTbvipK3aZjV6DY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 Jan 2024 18:52:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sH4ndJNICIvDzn6jjeg3HvG3LuzOuTbvipK3aZjV6DY="
+        }
+      ]
+    }
+  ]
+}

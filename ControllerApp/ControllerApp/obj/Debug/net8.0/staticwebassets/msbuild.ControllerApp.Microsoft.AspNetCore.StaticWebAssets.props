@@ -1,0 +1,22 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Samples\Sample.pdf'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ControllerApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ControllerApp</BasePath>
+      <RelativePath>Samples/Sample.pdf</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>o2v0w5tn6n</Fingerprint>
+      <Integrity>sH4ndJNICIvDzn6jjeg3HvG3LuzOuTbvipK3aZjV6DY=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Samples\Sample.pdf'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>

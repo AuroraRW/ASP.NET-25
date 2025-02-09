@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "Samples/Sample.o2v0w5tn6n.pdf",
+      "AssetFile": "Samples/Sample.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35479"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sH4ndJNICIvDzn6jjeg3HvG3LuzOuTbvipK3aZjV6DY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 Jan 2024 18:52:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o2v0w5tn6n"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sH4ndJNICIvDzn6jjeg3HvG3LuzOuTbvipK3aZjV6DY="
+        },
+        {
+          "Name": "label",
+          "Value": "Samples/Sample.pdf"
+        }
+      ]
+    },
+    {
+      "Route": "Samples/Sample.pdf",
+      "AssetFile": "Samples/Sample.pdf",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "35479"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/pdf"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sH4ndJNICIvDzn6jjeg3HvG3LuzOuTbvipK3aZjV6DY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 05 Jan 2024 18:52:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sH4ndJNICIvDzn6jjeg3HvG3LuzOuTbvipK3aZjV6DY="
+        }
+      ]
+    }
+  ]
+}
