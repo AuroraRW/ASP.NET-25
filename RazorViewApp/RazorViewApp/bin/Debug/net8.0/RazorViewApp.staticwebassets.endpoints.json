@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "css/StyleSheet.1yggaxcq5r.css",
+      "AssetFile": "css/StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yWezAqxXIu0VMh40UFu4jTXDqVupvwd9dh9pZSMQyAg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 17:04:28 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1yggaxcq5r"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yWezAqxXIu0VMh40UFu4jTXDqVupvwd9dh9pZSMQyAg="
+        },
+        {
+          "Name": "label",
+          "Value": "css/StyleSheet.css"
+        }
+      ]
+    },
+    {
+      "Route": "css/StyleSheet.css",
+      "AssetFile": "css/StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yWezAqxXIu0VMh40UFu4jTXDqVupvwd9dh9pZSMQyAg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 17:04:28 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yWezAqxXIu0VMh40UFu4jTXDqVupvwd9dh9pZSMQyAg="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+﻿@using RazorViewApp.Models
+@model IEnumerable<Person>
+<!DOCTYPE html>
+<html>
+<head>
+    @* <title>@ViewData["AppTitle"]</title> *@
+    <title>@ViewBag.AppTitle</title>
+    <link href="~/css/StyleSheet.css" rel="stylesheet" />
+</head>
+<body>
+    <h1>Welcome !</h1>
+    @* <p>@ViewData["people"]</p> *@
+    @*@{
+        List<Person>? people = (List<Person>?)ViewData["people"];
+    }*@
+    <table>
+        <tbody>
+            @* @foreach(Person person in ViewBag.people) *@
+            @foreach (Person person in Model)
+            {
+                <tr>
+                    <td class="title">@person.Name</td>
+                </tr>
+                <tr>
+                    <td>Gender</td>
+                    <td>@person.PersonGender</td>
+                </tr>
+                <tr>
+                    <td>Date of Birth</td>
+                    <td> @person.DateOfBirth.Value.ToString("MM/dd/yyyy")</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</body>
+</html>

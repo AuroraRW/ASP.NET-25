@@ -1,0 +1,68 @@
+﻿@using RazorViewApp.Models
+@{
+    string AppTitle = "My page";
+    Person person = new Person()
+            {
+                Name = "John",
+                DateOfBirth = DateTime.Parse("2000-05-06"),
+                PersonGender = Gender.Female
+            };
+    List<Person> people = new List<Person>()
+    {
+        new Person() { Name = "John", DateOfBirth = DateTime.Parse("2000-05-06"), PersonGender = Gender.Male},
+        new Person() { Name = "Linda", DateOfBirth = DateTime.Parse("2005-01-09"), PersonGender = Gender.Female},
+        new Person() { Name = "Susan", DateOfBirth = DateTime.Parse("2008-07-12"), PersonGender = Gender.Other}
+    };
+
+    double? GetAge(DateTime? DateOfBirth)
+    {
+        if(DateOfBirth is not null){
+            return Math.Floor((DateTime.Now - DateOfBirth).Value.TotalDays / 365);
+        }else{
+            return null;
+        }
+    }
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@AppTitle</title>
+</head>
+<body>
+    <h1>This is my view page!</h1>
+    <h2>Hello @person.Name</h2>
+    @if(person.DateOfBirth.HasValue){
+        double age = Math.Floor((DateTime.Now - person.DateOfBirth).Value.TotalDays / 365);
+        <h3>@age yesrs old</h3>
+    }else{
+
+    }
+    @switch (person.PersonGender)
+    {
+        case Gender.Male:
+            <p>November 19 is International Men's Day</p>
+            break;
+
+        case Gender.Female:
+            <p>March 8 is International Women's Day</p>
+            break;
+
+        case Gender.Other:
+            <p>March 31 is International Transgender's Day</p>
+            break;
+    }
+    @* @foreach(var p in people){ *@
+    @for(int i=0;i<people.Count;i++)
+    {
+        Person p = people[i];
+        <div>
+            <h3>@p.Name</h3>
+            @p.PersonGender
+            @if(p.DateOfBirth != null){
+                <p>@p.DateOfBirth.Value.ToString("MM/dd/yyyy")</p>
+                <p>@GetAge(p.DateOfBirth) years old</p>
+            }
+        </div>
+    }
+</body>
+</html>

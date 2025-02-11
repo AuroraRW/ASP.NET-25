@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "ZkNb7S6QxfduJkIqW33ED9Yssf1RoQqmJcfVMYBkuYY=",
+  "Source": "RazorViewApp",
+  "BasePath": "_content/RazorViewApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RazorViewApp\\wwwroot",
+      "Source": "RazorViewApp",
+      "ContentRoot": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\wwwroot\\",
+      "BasePath": "_content/RazorViewApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\wwwroot\\css\\StyleSheet.css",
+      "SourceId": "RazorViewApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\wwwroot\\",
+      "BasePath": "_content/RazorViewApp",
+      "RelativePath": "css/StyleSheet#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1yggaxcq5r",
+      "Integrity": "yWezAqxXIu0VMh40UFu4jTXDqVupvwd9dh9pZSMQyAg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\StyleSheet.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/StyleSheet.1yggaxcq5r.css",
+      "AssetFile": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\wwwroot\\css\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yWezAqxXIu0VMh40UFu4jTXDqVupvwd9dh9pZSMQyAg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 17:04:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1yggaxcq5r"
+        },
+        {
+          "Name": "label",
+          "Value": "css/StyleSheet.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-yWezAqxXIu0VMh40UFu4jTXDqVupvwd9dh9pZSMQyAg="
+        }
+      ]
+    },
+    {
+      "Route": "css/StyleSheet.css",
+      "AssetFile": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\wwwroot\\css\\StyleSheet.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "120"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"yWezAqxXIu0VMh40UFu4jTXDqVupvwd9dh9pZSMQyAg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 11 Feb 2025 17:04:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-yWezAqxXIu0VMh40UFu4jTXDqVupvwd9dh9pZSMQyAg="
+        }
+      ]
+    }
+  ]
+}
