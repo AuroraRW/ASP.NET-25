@@ -1,4 +1,7 @@
-﻿@using RazorViewApp.Models
+﻿@* @using RazorViewApp.Models *@
+@* @{ *@
+@*     Layout = "~/Views/Shared/_LayoutView.cshtml"; *@
+@* } *@
 @{
     string AppTitle = "My page";
     Person person = new Person()
@@ -23,12 +26,12 @@
         }
     }
 }
-<!DOCTYPE html>
-<html>
-<head>
-    <title>@AppTitle</title>
-</head>
-<body>
+@* <!DOCTYPE html> *@
+@* <html> *@
+@* <head> *@
+@*     <title>@AppTitle</title> *@
+@* </head> *@
+@* <body> *@
     <h1>This is my view page!</h1>
     <h2>Hello @person.Name</h2>
     @if(person.DateOfBirth.HasValue){
@@ -64,5 +67,5 @@
             }
         </div>
     }
-</body>
-</html>
+@* </body> *@
+@* </html> *@

@@ -3,28 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\razorviewapp\\razorviewapp\\views\\product\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|solutionrelative:razorviewapp\\views\\product\\all.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\razorviewapp\\razorviewapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|solutionrelative:razorviewapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\razorviewapp\\razorviewapp\\views\\shared\\_textpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|solutionrelative:razorviewapp\\views\\shared\\_textpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\razorviewapp\\razorviewapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|solutionrelative:razorviewapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\razorviewapp\\razorviewapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|solutionrelative:razorviewapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\razorviewapp\\razorviewapp\\views\\home\\mypage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|solutionrelative:razorviewapp\\views\\home\\mypage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\razorviewapp\\razorviewapp\\views\\home\\abc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|solutionrelative:razorviewapp\\views\\home\\abc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\razorviewapp\\razorviewapp\\views\\home\\personwithproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|solutionrelative:razorviewapp\\views\\home\\personwithproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\razorviewapp\\razorviewapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|solutionrelative:razorviewapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\razorviewapp\\razorviewapp\\views\\shared\\_layoutview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|solutionrelative:razorviewapp\\views\\shared\\_layoutview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\razorviewapp\\razorviewapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|solutionrelative:razorviewapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\razorviewapp\\razorviewapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|solutionrelative:razorviewapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\razorviewapp\\razorviewapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|solutionrelative:razorviewapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\razorviewapp\\razorviewapp\\models\\personandproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|solutionrelative:razorviewapp\\models\\personandproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\razorviewapp\\razorviewapp\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|solutionrelative:razorviewapp\\wwwroot\\css\\stylesheet.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\razorviewapp\\razorviewapp\\views\\home\\abc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|solutionrelative:razorviewapp\\views\\home\\abc.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\razorviewapp\\razorviewapp\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|solutionrelative:razorviewapp\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\razorviewapp\\razorviewapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F0B606-4EB7-4046-B940-4DC6B1DC8841}|RazorViewApp\\RazorViewApp.csproj|solutionrelative:razorviewapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,23 +74,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_TextPartialView.cshtml",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\Views\\Shared\\_TextPartialView.cshtml",
+              "RelativeDocumentMoniker": "RazorViewApp\\Views\\Shared\\_TextPartialView.cshtml",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\Views\\Shared\\_TextPartialView.cshtml",
+              "RelativeToolTip": "RazorViewApp\\Views\\Shared\\_TextPartialView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T17:02:46.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "RazorViewApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "RazorViewApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T16:57:53.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "All.cshtml",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\Views\\Product\\All.cshtml",
+              "RelativeDocumentMoniker": "RazorViewApp\\Views\\Product\\All.cshtml",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\Views\\Product\\All.cshtml",
+              "RelativeToolTip": "RazorViewApp\\Views\\Product\\All.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T16:28:12.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "RazorViewApp\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "RazorViewApp\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:26:34.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "RazorViewApp\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\Controllers\\HomeController.cs",
               "RelativeToolTip": "RazorViewApp\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAwwCMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T17:34:17.565Z"
+              "WhenOpened": "2025-02-11T17:34:17.565Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\Program.cs",
               "RelativeDocumentMoniker": "RazorViewApp\\Program.cs",
@@ -63,33 +156,111 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "MyPage.cshtml",
               "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\Views\\Home\\MyPage.cshtml",
               "RelativeDocumentMoniker": "RazorViewApp\\Views\\Home\\MyPage.cshtml",
               "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\Views\\Home\\MyPage.cshtml",
               "RelativeToolTip": "RazorViewApp\\Views\\Home\\MyPage.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-11T17:33:29.887Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "RazorViewApp\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "RazorViewApp\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-02-11T17:33:20.306Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "RazorViewApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "RazorViewApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T16:20:01.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonWithProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\Views\\Home\\PersonWithProduct.cshtml",
+              "RelativeDocumentMoniker": "RazorViewApp\\Views\\Home\\PersonWithProduct.cshtml",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\Views\\Home\\PersonWithProduct.cshtml",
+              "RelativeToolTip": "RazorViewApp\\Views\\Home\\PersonWithProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T16:05:27.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_LayoutView.cshtml",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\Views\\Shared\\_LayoutView.cshtml",
+              "RelativeDocumentMoniker": "RazorViewApp\\Views\\Shared\\_LayoutView.cshtml",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\Views\\Shared\\_LayoutView.cshtml",
+              "RelativeToolTip": "RazorViewApp\\Views\\Shared\\_LayoutView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T16:41:16.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "RazorViewApp\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\Models\\Product.cs",
+              "RelativeToolTip": "RazorViewApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T15:58:20.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PersonAndProduct.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\Models\\PersonAndProduct.cs",
+              "RelativeDocumentMoniker": "RazorViewApp\\Models\\PersonAndProduct.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\Models\\PersonAndProduct.cs",
+              "RelativeToolTip": "RazorViewApp\\Models\\PersonAndProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T16:02:21.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StyleSheet.css",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\wwwroot\\css\\StyleSheet.css",
+              "RelativeDocumentMoniker": "RazorViewApp\\wwwroot\\css\\StyleSheet.css",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\wwwroot\\css\\StyleSheet.css",
+              "RelativeToolTip": "RazorViewApp\\wwwroot\\css\\StyleSheet.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-02-25T16:25:03.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "ABC.cshtml",
               "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\Views\\Home\\ABC.cshtml",
               "RelativeDocumentMoniker": "RazorViewApp\\Views\\Home\\ABC.cshtml",
@@ -102,7 +273,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\RazorViewApp\\RazorViewApp\\Models\\Person.cs",
               "RelativeDocumentMoniker": "RazorViewApp\\Models\\Person.cs",
@@ -110,7 +281,8 @@
               "RelativeToolTip": "RazorViewApp\\Models\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T17:33:04.751Z"
+              "WhenOpened": "2025-02-11T17:33:04.751Z",
+              "EditorCaption": ""
             }
           ]
         }

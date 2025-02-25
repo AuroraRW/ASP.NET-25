@@ -1,14 +1,18 @@
-﻿@using RazorViewApp.Models
+﻿@* @using RazorViewApp.Models *@
 @model IEnumerable<Person>
-<!DOCTYPE html>
-<html>
-<head>
-    @* <title>@ViewData["AppTitle"]</title> *@
-    <title>@ViewBag.AppTitle</title>
-    <link href="~/css/StyleSheet.css" rel="stylesheet" />
-</head>
-<body>
+@* @{ *@
+@*     Layout = "~/Views/Shared/_LayoutView.cshtml"; *@
+@* } *@
+@* <!DOCTYPE html> *@
+@* <html> *@
+@* <head> *@
+@* <title>@ViewData["AppTitle"]</title> *@
+@*     <title>@ViewBag.AppTitle</title> *@
+@*     <link href="~/css/StyleSheet.css" rel="stylesheet" /> *@
+@* </head> *@
+@* <body> *@
     <h1>Welcome !</h1>
+    <Partial name="_TextpartialView"></Partial>
     @* <p>@ViewData["people"]</p> *@
     @*@{
         List<Person>? people = (List<Person>?)ViewData["people"];
@@ -32,5 +36,5 @@
             }
         </tbody>
     </table>
-</body>
-</html>
+@* </body> *@
+@* </html> *@

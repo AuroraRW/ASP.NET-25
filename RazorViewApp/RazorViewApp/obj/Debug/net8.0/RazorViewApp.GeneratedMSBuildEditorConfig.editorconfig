@@ -31,3 +31,27 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/awang/OneDrive - Bow Valley College/2025Winter/ASPNET/Example/ASP.NET-25/RazorViewApp/RazorViewApp/Views/Home/MyPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxNeVBhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/awang/OneDrive - Bow Valley College/2025Winter/ASPNET/Example/ASP.NET-25/RazorViewApp/RazorViewApp/Views/Home/PersonWithProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQZXJzb25XaXRoUHJvZHVjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/awang/OneDrive - Bow Valley College/2025Winter/ASPNET/Example/ASP.NET-25/RazorViewApp/RazorViewApp/Views/Product/All.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBbGwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/awang/OneDrive - Bow Valley College/2025Winter/ASPNET/Example/ASP.NET-25/RazorViewApp/RazorViewApp/Views/Shared/_LayoutView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRWaWV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/awang/OneDrive - Bow Valley College/2025Winter/ASPNET/Example/ASP.NET-25/RazorViewApp/RazorViewApp/Views/Shared/_TextPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9UZXh0UGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/awang/OneDrive - Bow Valley College/2025Winter/ASPNET/Example/ASP.NET-25/RazorViewApp/RazorViewApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/awang/OneDrive - Bow Valley College/2025Winter/ASPNET/Example/ASP.NET-25/RazorViewApp/RazorViewApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

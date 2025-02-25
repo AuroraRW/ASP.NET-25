@@ -1,0 +1,38 @@
+﻿@* @using RazorViewApp.Models *@
+@model PersonAndProduct
+@* @{ *@
+@*     Layout = "~/Views/Shared/_LayoutView.cshtml"; *@
+@* } *@
+@* <!DOCTYPE html> *@
+@* <html> *@
+@* <head> *@
+@*     <title></title> *@
+@*     <link href="~/css/StyleSheet.css" rel="stylesheet" /> *@
+@* </head> *@
+@* <body> *@
+    <div>
+        <h3>Person</h3>
+        <table>
+            <tr>
+                <td>Person Name</td>
+                <td>@Model.PersonData.Name</td>
+            </tr>
+            <tr>
+                <td>Gender</td>
+                <td>@Model.PersonData.PersonGender</td>
+            </tr>
+        </table>
+        <h3>Product</h3>
+        <table>
+            <tr>
+                <td>Product Id</td>
+                <td>@Model.ProductData.ProductId</td>
+            </tr>
+            <tr>
+                <td>Product Name</td>
+                <td>@Model.ProductData.ProductName</td>
+            </tr>
+        </table>
+    </div>
+@* </body> *@
+@* </html> *@

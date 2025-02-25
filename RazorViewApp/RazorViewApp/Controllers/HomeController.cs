@@ -11,13 +11,14 @@ namespace RazorView1.Controllers
             // Views/Home/MyPage.cshtml
             //return View("ABC");
             //return new ViewResult { ViewName = "ABC" };
+            ViewData["AppTitle"] = "Home";
             return View();
         }
         [Route("/Persons")]
         public IActionResult Index()
         {
-            //ViewData["AppTitle"] = "Razor View App";
-            ViewBag.AppTitle = "Razor View App";
+            ViewData["AppTitle"] = "Persons";
+            //ViewBag.AppTitle = "Razor View App";
 
             List<Person> people = new List<Person>()
             {
@@ -29,6 +30,15 @@ namespace RazorView1.Controllers
             //ViewData["people"] = people;
 
             return View("Index", people);
+        }
+        [Route("person-with-product")]
+        public IActionResult PersonWithProduct()
+        {
+            ViewData["AppTitle"] = "Person and Product";
+            Person person = new Person() { Name = "Sara", PersonGender = Gender.Female, DateOfBirth = Convert.ToDateTime("2004-07-01") };
+            Product product = new Product() { ProductId = 1, ProductName = "Air Conditioner" };
+            PersonAndProduct PAP = new PersonAndProduct() { PersonData = person, ProductData = product };
+            return View(PAP);
         }
     }
 }

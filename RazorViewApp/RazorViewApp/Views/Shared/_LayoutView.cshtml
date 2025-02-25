@@ -1,0 +1,18 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewData["AppTitle"]</title>
+    <link href="~/css/StyleSheet.css" rel="stylesheet" />
+</head>
+<body>
+    <a href="/Home">Home</a>
+    <a href="/Persons">Persons</a>
+    <a href="/products/all">All Products</a>
+    <a href="/person-with-product">Person With Product</a>
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>

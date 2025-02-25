@@ -1,0 +1,25 @@
+﻿@model Product
+@* @{ *@
+@*     Layout = "~/Views/Shared/_LayoutView.cshtml"; *@
+@* } *@
+@* <!DOCTYPE html> *@
+@* <html> *@
+@* <head> *@
+@*     <title></title> *@
+@*     <link href="~/css/StyleSheet.css" rel="stylesheet" /> *@
+@* </head> *@
+@* <body> *@
+    <h1>There are all products</h1>
+    <Partial name="_TextPartialView"></Partial>
+    <table>
+        <tr>
+            <td>Product Id</td>
+            <td>@Model.ProductId</td>
+        </tr>
+        <tr>
+            <td>Product Name</td>
+            <td>@Model.ProductName</td>
+        </tr>
+    </table>
+@* </body> *@
+@* </html> *@
