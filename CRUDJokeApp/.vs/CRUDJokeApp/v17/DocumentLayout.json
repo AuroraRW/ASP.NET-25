@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\CRUDJokeApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE07A64-8BA8-4B25-8B31-570C02F0229C}|CRUDJokeApp\\CRUDJokeApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\crudjokeapp\\crudjokeapp\\views\\joke\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EE07A64-8BA8-4B25-8B31-570C02F0229C}|CRUDJokeApp\\CRUDJokeApp.csproj|solutionrelative:crudjokeapp\\views\\joke\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE07A64-8BA8-4B25-8B31-570C02F0229C}|CRUDJokeApp\\CRUDJokeApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\crudjokeapp\\crudjokeapp\\views\\joke\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EE07A64-8BA8-4B25-8B31-570C02F0229C}|CRUDJokeApp\\CRUDJokeApp.csproj|solutionrelative:crudjokeapp\\views\\joke\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE07A64-8BA8-4B25-8B31-570C02F0229C}|CRUDJokeApp\\CRUDJokeApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\crudjokeapp\\crudjokeapp\\controllers\\jokecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE07A64-8BA8-4B25-8B31-570C02F0229C}|CRUDJokeApp\\CRUDJokeApp.csproj|solutionrelative:crudjokeapp\\controllers\\jokecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE07A64-8BA8-4B25-8B31-570C02F0229C}|CRUDJokeApp\\CRUDJokeApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\crudjokeapp\\crudjokeapp\\models\\joke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE07A64-8BA8-4B25-8B31-570C02F0229C}|CRUDJokeApp\\CRUDJokeApp.csproj|solutionrelative:crudjokeapp\\models\\joke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE07A64-8BA8-4B25-8B31-570C02F0229C}|CRUDJokeApp\\CRUDJokeApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\crudjokeapp\\crudjokeapp\\models\\jokerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE07A64-8BA8-4B25-8B31-570C02F0229C}|CRUDJokeApp\\CRUDJokeApp.csproj|solutionrelative:crudjokeapp\\models\\jokerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE07A64-8BA8-4B25-8B31-570C02F0229C}|CRUDJokeApp\\CRUDJokeApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\crudjokeapp\\crudjokeapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EE07A64-8BA8-4B25-8B31-570C02F0229C}|CRUDJokeApp\\CRUDJokeApp.csproj|solutionrelative:crudjokeapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE07A64-8BA8-4B25-8B31-570C02F0229C}|CRUDJokeApp\\CRUDJokeApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\crudjokeapp\\crudjokeapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE07A64-8BA8-4B25-8B31-570C02F0229C}|CRUDJokeApp\\CRUDJokeApp.csproj|solutionrelative:crudjokeapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE07A64-8BA8-4B25-8B31-570C02F0229C}|CRUDJokeApp\\CRUDJokeApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\crudjokeapp\\crudjokeapp\\views\\joke\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EE07A64-8BA8-4B25-8B31-570C02F0229C}|CRUDJokeApp\\CRUDJokeApp.csproj|solutionrelative:crudjokeapp\\views\\joke\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE07A64-8BA8-4B25-8B31-570C02F0229C}|CRUDJokeApp\\CRUDJokeApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\crudjokeapp\\crudjokeapp\\views\\joke\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EE07A64-8BA8-4B25-8B31-570C02F0229C}|CRUDJokeApp\\CRUDJokeApp.csproj|solutionrelative:crudjokeapp\\views\\joke\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE07A64-8BA8-4B25-8B31-570C02F0229C}|CRUDJokeApp\\CRUDJokeApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\crudjokeapp\\crudjokeapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EE07A64-8BA8-4B25-8B31-570C02F0229C}|CRUDJokeApp\\CRUDJokeApp.csproj|solutionrelative:crudjokeapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE07A64-8BA8-4B25-8B31-570C02F0229C}|CRUDJokeApp\\CRUDJokeApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\crudjokeapp\\crudjokeapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EE07A64-8BA8-4B25-8B31-570C02F0229C}|CRUDJokeApp\\CRUDJokeApp.csproj|solutionrelative:crudjokeapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE07A64-8BA8-4B25-8B31-570C02F0229C}|CRUDJokeApp\\CRUDJokeApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\crudjokeapp\\crudjokeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EE07A64-8BA8-4B25-8B31-570C02F0229C}|CRUDJokeApp\\CRUDJokeApp.csproj|solutionrelative:crudjokeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EE07A64-8BA8-4B25-8B31-570C02F0229C}|CRUDJokeApp\\CRUDJokeApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\crudjokeapp\\crudjokeapp\\crudjokeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6EE07A64-8BA8-4B25-8B31-570C02F0229C}|CRUDJokeApp\\CRUDJokeApp.csproj|solutionrelative:crudjokeapp\\crudjokeapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\CRUDJokeApp\\CRUDJokeApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CRUDJokeApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\CRUDJokeApp\\CRUDJokeApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CRUDJokeApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T04:40:39.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JokeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\CRUDJokeApp\\CRUDJokeApp\\Models\\JokeRepository.cs",
+              "RelativeDocumentMoniker": "CRUDJokeApp\\Models\\JokeRepository.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\CRUDJokeApp\\CRUDJokeApp\\Models\\JokeRepository.cs",
+              "RelativeToolTip": "CRUDJokeApp\\Models\\JokeRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwB0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T04:11:26.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Joke.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\CRUDJokeApp\\CRUDJokeApp\\Models\\Joke.cs",
+              "RelativeDocumentMoniker": "CRUDJokeApp\\Models\\Joke.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\CRUDJokeApp\\CRUDJokeApp\\Models\\Joke.cs",
+              "RelativeToolTip": "CRUDJokeApp\\Models\\Joke.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T04:01:43.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\CRUDJokeApp\\CRUDJokeApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRUDJokeApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\CRUDJokeApp\\CRUDJokeApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRUDJokeApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T03:52:27.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\CRUDJokeApp\\CRUDJokeApp\\Views\\Joke\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CRUDJokeApp\\Views\\Joke\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\CRUDJokeApp\\CRUDJokeApp\\Views\\Joke\\Edit.cshtml",
+              "RelativeToolTip": "CRUDJokeApp\\Views\\Joke\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T03:51:14.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\CRUDJokeApp\\CRUDJokeApp\\Views\\Joke\\Details.cshtml",
+              "RelativeDocumentMoniker": "CRUDJokeApp\\Views\\Joke\\Details.cshtml",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\CRUDJokeApp\\CRUDJokeApp\\Views\\Joke\\Details.cshtml",
+              "RelativeToolTip": "CRUDJokeApp\\Views\\Joke\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T03:51:00.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\CRUDJokeApp\\CRUDJokeApp\\Views\\Joke\\Add.cshtml",
+              "RelativeDocumentMoniker": "CRUDJokeApp\\Views\\Joke\\Add.cshtml",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\CRUDJokeApp\\CRUDJokeApp\\Views\\Joke\\Add.cshtml",
+              "RelativeToolTip": "CRUDJokeApp\\Views\\Joke\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T03:50:43.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\CRUDJokeApp\\CRUDJokeApp\\Views\\Joke\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDJokeApp\\Views\\Joke\\Index.cshtml",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\CRUDJokeApp\\CRUDJokeApp\\Views\\Joke\\Index.cshtml",
+              "RelativeToolTip": "CRUDJokeApp\\Views\\Joke\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T03:50:19.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JokeController.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\CRUDJokeApp\\CRUDJokeApp\\Controllers\\JokeController.cs",
+              "RelativeDocumentMoniker": "CRUDJokeApp\\Controllers\\JokeController.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\CRUDJokeApp\\CRUDJokeApp\\Controllers\\JokeController.cs",
+              "RelativeToolTip": "CRUDJokeApp\\Controllers\\JokeController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwC4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T03:48:43.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\CRUDJokeApp\\CRUDJokeApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUDJokeApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\CRUDJokeApp\\CRUDJokeApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CRUDJokeApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T03:45:02.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\CRUDJokeApp\\CRUDJokeApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CRUDJokeApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\CRUDJokeApp\\CRUDJokeApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CRUDJokeApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T03:43:57.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CRUDJokeApp",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\CRUDJokeApp\\CRUDJokeApp\\CRUDJokeApp.csproj",
+              "RelativeDocumentMoniker": "CRUDJokeApp\\CRUDJokeApp.csproj",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\CRUDJokeApp\\CRUDJokeApp\\CRUDJokeApp.csproj",
+              "RelativeToolTip": "CRUDJokeApp\\CRUDJokeApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-05T03:42:44.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\CRUDJokeApp\\CRUDJokeApp\\Program.cs",
+              "RelativeDocumentMoniker": "CRUDJokeApp\\Program.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\CRUDJokeApp\\CRUDJokeApp\\Program.cs",
+              "RelativeToolTip": "CRUDJokeApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T03:41:58.12Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

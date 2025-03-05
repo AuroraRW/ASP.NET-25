@@ -1,0 +1,20 @@
+﻿@model Joke
+@{
+	Layout = "~/Views/Shared/_Layout.cshtml";
+	ViewData["title"] = "Edit a joke";
+}
+
+<h1>Edit Joke:</h1>
+<form method="post" asp-controller="Joke" asp-action="Edit">
+	<label asp-for="JokeQuestion"></label>
+	<input type="text" asp-for="JokeQuestion" />
+	<div>
+		<span asp-validation-for="JokeQuestion"></span>
+	</div>
+	<label asp-for="JokeAnswer"></label>
+	<input type="text" asp-for="JokeAnswer" />
+	<div>
+		<span asp-validation-for="JokeAnswer"></span>
+	</div>
+	<button type="submit">Save</button>
+</form>
