@@ -5,3 +5,4 @@
 ### 4. ModelBindingApp
 ### 5-6. RazorViewApp
 ### 7. CRUDJokeApp
+### 8. EFJokeApp

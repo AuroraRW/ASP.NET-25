@@ -74,8 +74,7 @@
               "RelativeToolTip": "CRUDJokeApp\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-05T04:40:39.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T04:40:39.654Z"
             },
             {
               "$type": "Document",
@@ -87,8 +86,7 @@
               "RelativeToolTip": "CRUDJokeApp\\Models\\JokeRepository.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAqwB0AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T04:11:26.955Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T04:11:26.955Z"
             },
             {
               "$type": "Document",
@@ -100,8 +98,7 @@
               "RelativeToolTip": "CRUDJokeApp\\Models\\Joke.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T04:01:43.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T04:01:43.876Z"
             },
             {
               "$type": "Document",
@@ -113,8 +110,7 @@
               "RelativeToolTip": "CRUDJokeApp\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-05T03:52:27.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T03:52:27.155Z"
             },
             {
               "$type": "Document",
@@ -126,8 +122,7 @@
               "RelativeToolTip": "CRUDJokeApp\\Views\\Joke\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-05T03:51:14.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T03:51:14.654Z"
             },
             {
               "$type": "Document",
@@ -139,8 +134,7 @@
               "RelativeToolTip": "CRUDJokeApp\\Views\\Joke\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-05T03:51:00.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T03:51:00.132Z"
             },
             {
               "$type": "Document",
@@ -150,7 +144,7 @@
               "RelativeDocumentMoniker": "CRUDJokeApp\\Views\\Joke\\Add.cshtml",
               "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\CRUDJokeApp\\CRUDJokeApp\\Views\\Joke\\Add.cshtml",
               "RelativeToolTip": "CRUDJokeApp\\Views\\Joke\\Add.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwA8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-05T03:50:43.144Z",
               "EditorCaption": ""
@@ -165,8 +159,7 @@
               "RelativeToolTip": "CRUDJokeApp\\Views\\Joke\\Index.cshtml",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-05T03:50:19.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T03:50:19.403Z"
             },
             {
               "$type": "Document",
@@ -178,8 +171,7 @@
               "RelativeToolTip": "CRUDJokeApp\\Controllers\\JokeController.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAgwC4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T03:48:43.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T03:48:43.695Z"
             },
             {
               "$type": "Document",
@@ -191,8 +183,7 @@
               "RelativeToolTip": "CRUDJokeApp\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-05T03:45:02.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T03:45:02.515Z"
             },
             {
               "$type": "Document",
@@ -204,21 +195,19 @@
               "RelativeToolTip": "CRUDJokeApp\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T03:43:57.006Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T03:43:57.006Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "CRUDJokeApp",
+              "Title": "CRUDJokeApp.csproj",
               "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\CRUDJokeApp\\CRUDJokeApp\\CRUDJokeApp.csproj",
               "RelativeDocumentMoniker": "CRUDJokeApp\\CRUDJokeApp.csproj",
               "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\CRUDJokeApp\\CRUDJokeApp\\CRUDJokeApp.csproj",
               "RelativeToolTip": "CRUDJokeApp\\CRUDJokeApp.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-05T03:42:44.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T03:42:44.995Z"
             },
             {
               "$type": "Document",
@@ -230,8 +219,7 @@
               "RelativeToolTip": "CRUDJokeApp\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T03:41:58.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T03:41:58.12Z"
             }
           ]
         }

@@ -1,0 +1,11 @@
+﻿@model Joke
+@{
+	Layout = "~/Views/Shared/_Layout.cshtml";
+	ViewData["title"] = "Joke";
+}
+
+<h2>Question:</h2>
+<p>@Model.JokeQuestion</p>
+<h2>Answer:</h2>
+<p>@Model.JokeAnswer</p>
+<a asp-controller="Joke" asp-action="Index">Back</a>
