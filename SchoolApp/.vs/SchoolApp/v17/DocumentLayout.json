@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\SchoolApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F572A9B-4222-46EF-B538-889909066412}|SchoolApp\\SchoolApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\schoolapp\\schoolapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2F572A9B-4222-46EF-B538-889909066412}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F572A9B-4222-46EF-B538-889909066412}|SchoolApp\\SchoolApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\schoolapp\\schoolapp\\views\\class\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2F572A9B-4222-46EF-B538-889909066412}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\views\\class\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F572A9B-4222-46EF-B538-889909066412}|SchoolApp\\SchoolApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\schoolapp\\schoolapp\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F572A9B-4222-46EF-B538-889909066412}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\controllers\\classcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F572A9B-4222-46EF-B538-889909066412}|SchoolApp\\SchoolApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\schoolapp\\schoolapp\\schoolapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2F572A9B-4222-46EF-B538-889909066412}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\schoolapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F572A9B-4222-46EF-B538-889909066412}|SchoolApp\\SchoolApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\schoolapp\\schoolapp\\data\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F572A9B-4222-46EF-B538-889909066412}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\data\\schooldbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F572A9B-4222-46EF-B538-889909066412}|SchoolApp\\SchoolApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\schoolapp\\schoolapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F572A9B-4222-46EF-B538-889909066412}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F572A9B-4222-46EF-B538-889909066412}|SchoolApp\\SchoolApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\schoolapp\\schoolapp\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F572A9B-4222-46EF-B538-889909066412}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\models\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F572A9B-4222-46EF-B538-889909066412}|SchoolApp\\SchoolApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\schoolapp\\schoolapp\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F572A9B-4222-46EF-B538-889909066412}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\models\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F572A9B-4222-46EF-B538-889909066412}|SchoolApp\\SchoolApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\schoolapp\\schoolapp\\migrations\\schooldbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F572A9B-4222-46EF-B538-889909066412}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\migrations\\schooldbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F572A9B-4222-46EF-B538-889909066412}|SchoolApp\\SchoolApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\schoolapp\\schoolapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F572A9B-4222-46EF-B538-889909066412}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F572A9B-4222-46EF-B538-889909066412}|SchoolApp\\SchoolApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\schoolapp\\schoolapp\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F572A9B-4222-46EF-B538-889909066412}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\models\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F572A9B-4222-46EF-B538-889909066412}|SchoolApp\\SchoolApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\schoolapp\\schoolapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F572A9B-4222-46EF-B538-889909066412}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F572A9B-4222-46EF-B538-889909066412}|SchoolApp\\SchoolApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\schoolapp\\schoolapp\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F572A9B-4222-46EF-B538-889909066412}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F572A9B-4222-46EF-B538-889909066412}|SchoolApp\\SchoolApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\schoolapp\\schoolapp\\migrations\\20250318155721_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F572A9B-4222-46EF-B538-889909066412}|SchoolApp\\SchoolApp.csproj|solutionrelative:schoolapp\\migrations\\20250318155721_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\SchoolApp\\SchoolApp\\Views\\Class\\Index.cshtml",
+              "RelativeDocumentMoniker": "SchoolApp\\Views\\Class\\Index.cshtml",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\SchoolApp\\SchoolApp\\Views\\Class\\Index.cshtml",
+              "RelativeToolTip": "SchoolApp\\Views\\Class\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAIwBgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T16:15:48.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SchoolApp.csproj",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\SchoolApp\\SchoolApp\\SchoolApp.csproj",
+              "RelativeDocumentMoniker": "SchoolApp\\SchoolApp.csproj",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\SchoolApp\\SchoolApp\\SchoolApp.csproj",
+              "RelativeToolTip": "SchoolApp\\SchoolApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-18T16:03:17.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SchoolDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\SchoolApp\\SchoolApp\\Migrations\\SchoolDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\Migrations\\SchoolDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\SchoolApp\\SchoolApp\\Migrations\\SchoolDbContextModelSnapshot.cs",
+              "RelativeToolTip": "SchoolApp\\Migrations\\SchoolDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T15:57:34.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250318155721_Initial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\SchoolApp\\SchoolApp\\Migrations\\20250318155721_Initial Migration.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\Migrations\\20250318155721_Initial Migration.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\SchoolApp\\SchoolApp\\Migrations\\20250318155721_Initial Migration.cs",
+              "RelativeToolTip": "SchoolApp\\Migrations\\20250318155721_Initial Migration.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T15:57:22.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SchoolDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\SchoolApp\\SchoolApp\\Data\\SchoolDbContext.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\Data\\SchoolDbContext.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\SchoolApp\\SchoolApp\\Data\\SchoolDbContext.cs",
+              "RelativeToolTip": "SchoolApp\\Data\\SchoolDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T15:45:39.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\SchoolApp\\SchoolApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\SchoolApp\\SchoolApp\\Models\\User.cs",
+              "RelativeToolTip": "SchoolApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T15:27:22.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\SchoolApp\\SchoolApp\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\SchoolApp\\SchoolApp\\Models\\Teacher.cs",
+              "RelativeToolTip": "SchoolApp\\Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T15:27:10.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Subject.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\SchoolApp\\SchoolApp\\Models\\Subject.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\Models\\Subject.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\SchoolApp\\SchoolApp\\Models\\Subject.cs",
+              "RelativeToolTip": "SchoolApp\\Models\\Subject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T15:26:59.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\SchoolApp\\SchoolApp\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\SchoolApp\\SchoolApp\\Models\\Student.cs",
+              "RelativeToolTip": "SchoolApp\\Models\\Student.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T15:26:35.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Classroom.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\SchoolApp\\SchoolApp\\Models\\Classroom.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\Models\\Classroom.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\SchoolApp\\SchoolApp\\Models\\Classroom.cs",
+              "RelativeToolTip": "SchoolApp\\Models\\Classroom.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T15:26:07.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\SchoolApp\\SchoolApp\\Models\\Class.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\Models\\Class.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\SchoolApp\\SchoolApp\\Models\\Class.cs",
+              "RelativeToolTip": "SchoolApp\\Models\\Class.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T15:25:50.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\SchoolApp\\SchoolApp\\appsettings.json",
+              "RelativeDocumentMoniker": "SchoolApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\SchoolApp\\SchoolApp\\appsettings.json",
+              "RelativeToolTip": "SchoolApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-18T15:24:30.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClassController.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\SchoolApp\\SchoolApp\\Controllers\\ClassController.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\Controllers\\ClassController.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\SchoolApp\\SchoolApp\\Controllers\\ClassController.cs",
+              "RelativeToolTip": "SchoolApp\\Controllers\\ClassController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T16:04:08.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\SchoolApp\\SchoolApp\\Program.cs",
+              "RelativeDocumentMoniker": "SchoolApp\\Program.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\SchoolApp\\SchoolApp\\Program.cs",
+              "RelativeToolTip": "SchoolApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T15:24:27.283Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

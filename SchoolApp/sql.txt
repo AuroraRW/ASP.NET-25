@@ -1,0 +1,38 @@
+USE SchoolApp
+GO
+
+INSERT INTO [User] (UserName, Password)
+VALUES
+('john_doe', 'password123'),
+('jane_smith', 'password456');
+
+INSERT INTO Teacher (FirstName, LastName)
+VALUES
+('Michael', 'Jordan'),
+('Sarah', 'Connor');
+
+INSERT INTO Subject (Name, Description)
+VALUES
+('Math', 'Study of numbers, shapes, and patterns'),
+('Science', 'Study of the natural world');
+
+INSERT INTO Classroom (RoomNumber, Capacity, RoomType)
+VALUES
+('A101', '30', 'Lecture'),
+('B202', '25', 'Lab');
+
+INSERT INTO Student (FirstName, LastName, Phone, Email, UserId)
+VALUES
+('John', 'Doe', '123-456-7890', 'john.doe@example.com', 1),
+('Jane', 'Smith', '987-654-3210', 'jane.smith@example.com', 2);
+
+INSERT INTO Class (TeacherId, SubjectId, ClassroomId)
+VALUES
+(1, 1, 1),  -- Class 1 with Teacher 1, Subject 1, Classroom 1
+(2, 2, 2);  -- Class 2 with Teacher 2, Subject 2, Classroom 2
+
+INSERT INTO ClassStudent (ClassId, StudentId)
+VALUES
+(1, 1),  -- Student 1 is enrolled in Class 1
+(2, 2);  -- Student 2 is enrolled in Class 2
+(1, 2);  -- Student 2 is enrolled in Class 1
