@@ -6,3 +6,4 @@
 ### 5-6. RazorViewApp
 ### 7. CRUDJokeApp
 ### 8. EFJokeApp
+### 9. SchoolApp
