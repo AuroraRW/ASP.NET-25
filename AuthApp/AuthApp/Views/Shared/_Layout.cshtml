@@ -1,0 +1,30 @@
+﻿@using AuthApp.Models
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<AppUser> signInManager
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AuthApp</title>
+</head>
+<body>
+    <header>
+        @if (signInManager.IsSignedIn(User))
+        {
+
+            <p>@User.Identity!.Name!</p>
+            <a asp-controller="Account" asp-action="Logout">Logout</a>
+        }
+        else
+        {
+            <a asp-controller="Account" asp-action="Register">Register</a>
+            <a asp-controller="Account" asp-action="Login">Login</a>
+        }
+    </header>
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>

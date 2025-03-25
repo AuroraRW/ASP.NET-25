@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\AuthApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C8AB8B-A3C5-4FA8-B65A-D6480DE97FEF}|AuthApp\\AuthApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\authapp\\authapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C8AB8B-A3C5-4FA8-B65A-D6480DE97FEF}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C8AB8B-A3C5-4FA8-B65A-D6480DE97FEF}|AuthApp\\AuthApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\authapp\\authapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C8AB8B-A3C5-4FA8-B65A-D6480DE97FEF}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C8AB8B-A3C5-4FA8-B65A-D6480DE97FEF}|AuthApp\\AuthApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\authapp\\authapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F7C8AB8B-A3C5-4FA8-B65A-D6480DE97FEF}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C8AB8B-A3C5-4FA8-B65A-D6480DE97FEF}|AuthApp\\AuthApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\authapp\\authapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7C8AB8B-A3C5-4FA8-B65A-D6480DE97FEF}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C8AB8B-A3C5-4FA8-B65A-D6480DE97FEF}|AuthApp\\AuthApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\authapp\\authapp\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C8AB8B-A3C5-4FA8-B65A-D6480DE97FEF}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C8AB8B-A3C5-4FA8-B65A-D6480DE97FEF}|AuthApp\\AuthApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\authapp\\authapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7C8AB8B-A3C5-4FA8-B65A-D6480DE97FEF}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C8AB8B-A3C5-4FA8-B65A-D6480DE97FEF}|AuthApp\\AuthApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\authapp\\authapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7C8AB8B-A3C5-4FA8-B65A-D6480DE97FEF}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C8AB8B-A3C5-4FA8-B65A-D6480DE97FEF}|AuthApp\\AuthApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\authapp\\authapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7C8AB8B-A3C5-4FA8-B65A-D6480DE97FEF}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C8AB8B-A3C5-4FA8-B65A-D6480DE97FEF}|AuthApp\\AuthApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\authapp\\authapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7C8AB8B-A3C5-4FA8-B65A-D6480DE97FEF}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C8AB8B-A3C5-4FA8-B65A-D6480DE97FEF}|AuthApp\\AuthApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\authapp\\authapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F7C8AB8B-A3C5-4FA8-B65A-D6480DE97FEF}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C8AB8B-A3C5-4FA8-B65A-D6480DE97FEF}|AuthApp\\AuthApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\authapp\\authapp\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C8AB8B-A3C5-4FA8-B65A-D6480DE97FEF}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C8AB8B-A3C5-4FA8-B65A-D6480DE97FEF}|AuthApp\\AuthApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\authapp\\authapp\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C8AB8B-A3C5-4FA8-B65A-D6480DE97FEF}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C8AB8B-A3C5-4FA8-B65A-D6480DE97FEF}|AuthApp\\AuthApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\authapp\\authapp\\migrations\\20250325153141_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C8AB8B-A3C5-4FA8-B65A-D6480DE97FEF}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\migrations\\20250325153141_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C8AB8B-A3C5-4FA8-B65A-D6480DE97FEF}|AuthApp\\AuthApp.csproj|c:\\users\\awang\\onedrive - bow valley college\\2025winter\\aspnet\\example\\asp.net-25\\authapp\\authapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C8AB8B-A3C5-4FA8-B65A-D6480DE97FEF}|AuthApp\\AuthApp.csproj|solutionrelative:authapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\AuthApp\\AuthApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AuthApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\AuthApp\\AuthApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AuthApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T16:09:37.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\AuthApp\\AuthApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AuthApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\AuthApp\\AuthApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AuthApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T16:09:25.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\AuthApp\\AuthApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AuthApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\AuthApp\\AuthApp\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "AuthApp\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T16:08:55.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\AuthApp\\AuthApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AuthApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\AuthApp\\AuthApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AuthApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T16:08:02.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\AuthApp\\AuthApp\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "AuthApp\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\AuthApp\\AuthApp\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "AuthApp\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T16:07:55.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\AuthApp\\AuthApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "AuthApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\AuthApp\\AuthApp\\Views\\Account\\Login.cshtml*",
+              "RelativeToolTip": "AuthApp\\Views\\Account\\Login.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T16:07:41.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\AuthApp\\AuthApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AuthApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\AuthApp\\AuthApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AuthApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:46:41.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\AuthApp\\AuthApp\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "AuthApp\\ViewModels\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\AuthApp\\AuthApp\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "AuthApp\\ViewModels\\RegisterVM.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:40:54.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\AuthApp\\AuthApp\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\AuthApp\\AuthApp\\appsettings.json",
+              "RelativeToolTip": "AuthApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T15:27:21.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\AuthApp\\AuthApp\\Program.cs",
+              "RelativeDocumentMoniker": "AuthApp\\Program.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\AuthApp\\AuthApp\\Program.cs*",
+              "RelativeToolTip": "AuthApp\\Program.cs*",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:27:22.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\AuthApp\\AuthApp\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "AuthApp\\ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\AuthApp\\AuthApp\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "AuthApp\\ViewModels\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:40:40.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250325153141_Initial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\AuthApp\\AuthApp\\Migrations\\20250325153141_Initial Migration.cs",
+              "RelativeDocumentMoniker": "AuthApp\\Migrations\\20250325153141_Initial Migration.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\AuthApp\\AuthApp\\Migrations\\20250325153141_Initial Migration.cs",
+              "RelativeToolTip": "AuthApp\\Migrations\\20250325153141_Initial Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:31:41.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\AuthApp\\AuthApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AuthApp\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\AuthApp\\AuthApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AuthApp\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:25:04.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\AuthApp\\AuthApp\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "AuthApp\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\awang\\OneDrive - Bow Valley College\\2025Winter\\ASPNET\\Example\\ASP.NET-25\\AuthApp\\AuthApp\\Models\\AppUser.cs",
+              "RelativeToolTip": "AuthApp\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:20:37.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

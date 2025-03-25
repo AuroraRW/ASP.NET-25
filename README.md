@@ -7,3 +7,4 @@
 ### 7. CRUDJokeApp
 ### 8. EFJokeApp
 ### 9. SchoolApp
+### 10. AuthApp
